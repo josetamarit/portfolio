@@ -10,3 +10,5 @@ Este repositorio es un índice de mis proyectos públicos.
 ## Sobre mí
 - Background: Inteligencia Robótica + enfoque en Data Engineering / Analytics Engineering
 - Objetivo: entrar como junior y crecer rápido con proyectos end-to-end
+
+## English
